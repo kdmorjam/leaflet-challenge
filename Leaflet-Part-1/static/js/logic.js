@@ -1,7 +1,7 @@
 
 let quakemap = L.map("map", {
-    center:[79.38,43.65],
-    zoom: 2
+    center:[43.65,79.38],
+    zoom: 3
 })
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {

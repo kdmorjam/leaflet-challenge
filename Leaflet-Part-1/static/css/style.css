@@ -9,9 +9,14 @@ html {
   height: 100%;
 }
 
+/* for map legend */
 .legend {
-  line-height: 18px;
-  color: #040101;
+  padding: 6px 8px;
+  background: white;
+  background: rgba(255,255,255,0.8);
+  line-height: 25px;
+  color: #555;
+  width: auto;
 }
 .legend i {
   width: 18px;
